@@ -1,4 +1,4 @@
 # first-repo
 this is my first repo.
 <br>
-Author - Nihar
+Author - Nihar Sharma
